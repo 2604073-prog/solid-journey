@@ -5,8 +5,8 @@ This project focuses on the Exploratory Data Analysis (EDA) of a seasonal retail
 
 ## 🛠️ Tech Stack & Environment
 * **Language:** Python 3 (JupyterLab)
-* **Libraries:** Pandas, NumPy, SQLAlchemy
-* **Database Target:** MySQL / PostgreSQL 
+* **Libraries:** Pandas,SQLAlchemy
+* **Database Target:** MySQL 
 * **Version Control:** Git & GitHub
 
 ## 🧼 Core Data Cleaning & Engineering Steps
