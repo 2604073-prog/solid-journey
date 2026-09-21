@@ -35,4 +35,3 @@ The architecture utilizes **SQLAlchemy engines** acting as automated data carrie
 ### 🚀 How to Run
 1. Open MySQL Workbench.
 2. Load and execute the script: `data_cleaning_project.sql`.
-3.
